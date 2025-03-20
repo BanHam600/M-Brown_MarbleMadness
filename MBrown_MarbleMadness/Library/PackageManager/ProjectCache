@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638744561558787528
-    m_Hash: 3158231212
+      ticks: 638756582131022372
+    m_Hash: 2202677550
   m_LockFileStatus:
     m_FilePath: D:/MarbleMadness/MBrown_MarbleMadness/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638744561558952305
-    m_Hash: 1606266997
+      ticks: 638756582131094219
+    m_Hash: 531018578
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -120,11 +120,13 @@ m_ResolvedPackages:
     - 2.5.1
     - 2.5.2
     - 2.6.0
+    - 2.7.1
     compatible:
     - 2.4.4
     - 2.5.1
     - 2.5.2
     - 2.6.0
+    - 2.7.1
     recommended: 2.4.4
     deprecated: []
   dependencies: []
@@ -340,6 +342,7 @@ m_ResolvedPackages:
     - 1.11.2
     - 1.12.0
     - 1.13.0
+    - 1.13.1
     compatible:
     - 1.7.0
     - 1.8.0-pre.1
@@ -354,6 +357,7 @@ m_ResolvedPackages:
     - 1.11.2
     - 1.12.0
     - 1.13.0
+    - 1.13.1
     recommended: 1.7.0
     deprecated: []
   dependencies:
